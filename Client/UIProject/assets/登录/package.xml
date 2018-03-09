@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="xihyiukh" jpegQuality="80" compressPNG="true">
+  <resources>
+    <component id="j7r60" name="登录界面.xml" path="/"/>
+    <image id="j7r61" name="132.png" path="/图片/"/>
+    <image id="j7r62" name="133.png" path="/图片/"/>
+    <image id="j7r63" name="137.png" path="/图片/"/>
+    <image id="j7r64" name="138.png" path="/图片/"/>
+    <image id="j7r65" name="144.png" path="/图片/"/>
+    <image id="j7r66" name="219.png" path="/图片/"/>
+  </resources>
+  <publish name=""/>
+</packageDescription>

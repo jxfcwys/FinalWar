@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <packageDescription id="s4kyg5j5" jpegQuality="80" compressPNG="true">
-  <resources/>
+  <resources>
+    <image id="j7r60" name="145.png" path="/图片/"/>
+    <image id="j7r61" name="149.png" path="/图片/"/>
+    <image id="j7r62" name="334.png" path="/图片/"/>
+    <component id="j7r64" name="单选勾选按钮.xml" path="/组件/按钮/"/>
+  </resources>
   <publish name="Public"/>
 </packageDescription>
