@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="1280,720"/>
+<component size="1280,720">
+  <displayList>
+    <image id="n0_qznf" name="n0" src="j7r61" xy="-32,-4"/>
+    <image id="n1_qznf" name="n1" src="j7r61" xy="644,-5" flip="hz"/>
+    <image id="n2_qznf" name="n2" src="j7r64" xy="509,-2"/>
+    <image id="n3_qznf" name="n3" src="j7r63" xy="-15,616"/>
+    <image id="n4_qznf" name="n4" src="j7r62" xy="637,615"/>
+    <image id="n5_qznf" name="n5" src="j7r66" xy="541,504"/>
+  </displayList>
+</component>
